@@ -1,0 +1,12 @@
+name: depends check
+
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    rebase-strategy: disabled
+    schedule:
+      interval: monthly
+    assignees:
+      - brinkqiang
+    reviewers:
+      - brinkqiang
