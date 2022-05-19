@@ -1,0 +1,16 @@
+*.github.com
+*.githubusercontent.com
+*.githubassets.com
+*.github.io
+
+*.reactjs.org
+
+*.unpkg.com
+*.npmjs.com
+
+*.codacy.com
+*.segment.com
+
+*.vuejs.org
+
+*.jetbrains.com
