@@ -1,21 +1,10 @@
 version: 2
 
-name: run dependabot
-
-on:
-  # push:
-  workflow_dispatch:
-  schedule:
-    # 定时任务，在每天的N点执行任务(国际标准时间, 北京时间+8)
-    - cron: "0 22 * * *"
-
 updates:
   - package-ecosystem: github-actions
     directory: /
-    rebase-strategy: disabled
     schedule:
-      interval: monthly
-    assignees:
-      - brinkqiang
-    reviewers:
-      - brinkqiang
+      interval: "weekly"
+      time: "22:00"
+    labels:
+      - "actions dependencies"
