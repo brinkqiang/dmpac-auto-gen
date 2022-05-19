@@ -1,0 +1,1 @@
+# dmpac-auto-gen
