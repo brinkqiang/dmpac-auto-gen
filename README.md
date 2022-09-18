@@ -1,6 +1,6 @@
 ## 下载
 
-<a href="https://github.com/brinkqiang/dmpac-auto-gen/blob/master/pac.txt" download>pac.txt</a>
+<a href="https://raw.githubusercontent.com/brinkqiang/dmpac-auto-gen/master/pac.txt" download>pac.txt</a>
 
 ## 感谢
 
