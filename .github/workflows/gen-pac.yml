@@ -21,7 +21,7 @@ jobs:
 
       - run: python -m pip install --upgrade pip
       - run: pip install genpac
-      - run: genpac --format pac --user-rule-from ./rules.txt --pac-proxy "SOCKS5 127.0.0.1:1080" > ./pac.txt
+      - run: genpac --format pac --user-rule-from ./rules.txt --pac-proxy "PROXY 127.0.0.1:51080" > ./pac.txt
 
       - uses: josStorer/get-current-time@v2
         id: time
@@ -33,5 +33,6 @@ jobs:
         with:
           message: "chore: ${{ steps.time.outputs.formattedTime }} update pac.txt"
           add: pac.txt
-          author_name: "github-actions[bot]"
-          author_email: "github-actions[bot]@users.noreply.github.com"
+          author_name: brinkqiang
+          author_email: brink.qiang@gmail.com
+          token: ${{ secrets.GITHUB_TOKEN }}
