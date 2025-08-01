@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-07-01 22:20:30
- * GFWList Last-Modified: 2025-06-28 11:01:38
+ * Generated: 2025-08-01 22:22:30
+ * GFWList Last-Modified: 2025-07-29 05:14:47
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1435,6 +1435,7 @@ var rules = [
             "dongtaiwang.net",
             "dongyangjing.com",
             "dontfilter.us",
+            "doom9.org",
             "doosho.com",
             "doourbest.org",
             "dorjeshugden.com",
@@ -1516,6 +1517,7 @@ var rules = [
             "e-info.org.tw",
             "e-zone.com.hk",
             "e123.hk",
+            "e621.net",
             "earlytibet.com",
             "earthcam.com",
             "earthvpn.com",
@@ -3178,6 +3180,7 @@ var rules = [
             "lsxszzg.com",
             "ltn.com.tw",
             "luckydesigner.space",
+            "ludepress.com",
             "luke54.com",
             "luke54.org",
             "lupm.org",
@@ -5469,6 +5472,7 @@ var rules = [
             "wahas.com",
             "waikeung.org",
             "wainao.me",
+            "walletconnect.com",
             "wallmama.com",
             "wallpapercasa.com",
             "wallproxy.com",
@@ -5695,6 +5699,7 @@ var rules = [
             "www.thechinastory.org",
             "www.wan-press.org",
             "www.websnapr.com",
+            "www.xicons.org",
             "www.zensur.freerk.com",
             "www1.american.edu",
             "www1.biz",
@@ -5799,6 +5804,7 @@ var rules = [
             "yam.org.tw",
             "yande.re",
             "yanghengjun.com",
+            "yangzhi.org",
             "yasni.co.uk",
             "yasukuni.or.jp",
             "yayabay.com",
